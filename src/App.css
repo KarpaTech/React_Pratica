@@ -8,13 +8,14 @@
 }
 
 html {
-  background-color: #f1f5f9;
+  background-color: darkblue;
 }
 
 h1, 
 div{
-  font-size: 2rem;
+  font-size: 3rem;
   font-weight: 700;
+  color: aliceblue;
 }
 
 h2{
@@ -24,16 +25,16 @@ h2{
 
 p{
   font-size: 1rem;
-  font-weight: 400;
+  font-weight: 700;
 }
 
 button {
-  background-color: #1d4ed8;
-  color: white;
-  padding: 0.5rem 1rem;
-  border-radius: 20px;
+  background-color: lightskyblue;
+  color: black;
+  padding: 1.5rem 3rem;
+  border-radius: 40px;
   border: none;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 
 ul,
@@ -51,7 +52,7 @@ li{
 span{
   font-size: 1.5rem;
   font-weight: 700;
-  color: #1d4ed8;
+  color: #198ecd;
 }
 
 a{
@@ -106,7 +107,7 @@ input{
 }
 
 .botao{
-  background-color: #1d4ed8;
+  background-color: #0c2771;
   color: white;
   padding: 0.5rem 1rem;
   border-radius: 20px;

@@ -1,15 +1,32 @@
+// import './App.css'
+// // import Contador from './pages/contador/Contador'
+// import Tarefa from './pages/tarefa/Tarefa'
+// // import Home from './pages/home/Home'
+
+
+
+// function App() {
+
+//   return (
+//     <>
+//         <Tarefa />
+//     </>
+//   )
+// }
+
+// export default App
+
+
+
 import './App.css'
-// import Contador from './pages/contador/Contador'
-import Tarefa from './pages/tarefa/Tarefa'
-// import Home from './pages/home/Home'
+import Login from './pages/login/Login';
 
 function App() {
-
   return (
     <>
-        <Tarefa />
+      <Login />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
